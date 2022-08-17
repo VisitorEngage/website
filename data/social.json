@@ -1,0 +1,14 @@
+{
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/jagan123",
+      "image": "images/social/twitter.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://in.linkedin.com/in/jagan123",
+      "image": "images/social/linkedin.svg"
+    }
+  ]
+}
