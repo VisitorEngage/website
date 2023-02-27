@@ -14,5 +14,5 @@ Thanks to all friends, early users and paying customers for your support.
 
 
 ---
-Behaviour based push notifications for web.  
+Behaviour based push notifications for SaaS & ecommerce websites.  
 A B2B SaaS founded by [Jagan Ganti](https://saasproductguy.com) | Connect on [twitter](https://twitter.com/jagan123) / [linkedin](https://linkedin.com/in/jagan123) 
